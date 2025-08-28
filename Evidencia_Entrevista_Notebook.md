@@ -1,6 +1,11 @@
 # Informe entrevista cargo
 
 ---
+> **Autores:**   
+> - Pedro Antonio Figueroa Quiroga
+> - Nicolás Andrés Sogamoso Díaz
+> - William Andres Aguilera Lasprilla
+
 
 ## Resumen de audio (Podcast)  
 [Link al audio](https://drive.google.com/drive/folders/1BzfVwnLjr28JTa-17YvbX09Ks3oj0xEY?usp=drive_link)
@@ -209,3 +214,4 @@ El trabajo fue realizado en la siguiente página:
 
 [Notebook del Trabajo](https://notebooklm.google.com/notebook/1f662ec2-d298-4459-8055-49e9b38c30aa)
 ---
+
